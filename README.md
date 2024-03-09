@@ -1,0 +1,2 @@
+# VIDEO TO AUDIO CONVERTER(SPAJ2.0)
+The Video to Audio Converter project aims to develop a versatile tool that transforms video files into high-quality audio files. This software enables users to extract audio tracks from various video formats, allowing for convenient conversion and utilization of audio content independently.The Video to Audio Converter project ultimately enhances accessibility and flexibility in managing multimedia content by offering a straightforward and efficient solution for converting videos to audio files.
